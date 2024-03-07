@@ -1,4 +1,4 @@
-![image](https://github.com/sukrithpvs/MindSense/assets/119289337/eedaab68-3ce1-4e42-a238-4e8f8c8773f9)# MindSense
+# MindSense
 # Multimodal Mental Health Assessment Suite README
 
 ## Overview
